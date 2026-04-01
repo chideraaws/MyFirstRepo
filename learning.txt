@@ -1,0 +1,1 @@
+What I have learned from this course is how Git and GitHub allow me to track my progress, collaborate with others, and manage my code effectively. It also helped me build confidence using VS Code and the terminal.
